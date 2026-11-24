@@ -1,0 +1,265 @@
+---
+title: ""
+author: "Giorgio Arcara"
+date: ""
+format:
+  beamer:
+    theme: metropolis
+    keep-tex: true
+incremental: false
+header-includes:
+  \setbeamerfont{title}{size=\large}
+  \usepackage{hyperref}
+  \setbeamertemplate{footline}[frame number]
+
+---
+
+```{=latex}
+% TITLE SLIDES
+\title{{\fontsize{15pt}{16pt}\selectfont Building Resilience Through Experience\\ \vspace{0.5em} {\fontsize{12pt}{13pt}\selectfont The concept of "cognitive reserve"}}}
+\author{\textbf{Giorgio Arcara}\\ 
+Department of General Psychology, Università di Padova \\ IRCCS San Camillo, Venezia\\
+\scriptsize{21st
+International Workshop on Neonatology
+and Pediatrics and Satellite Meetings}}
+
+
+\titlegraphic{
+
+\vspace*{7cm}
+\includegraphics[scale=0.15]{Figures/LogoSanCamilloIRCCS_Unipd_alpha.png}
+\begin{center}
+\vspace{-2.2em}
+\href{https://creativecommons.org/licenses/by-nc-sa/4.0/}{\includegraphics[scale=0.15]{Figures/CC_BY-NC-SA.png}}\hspace{0.4em}{\tiny CC BY-NC-SA 4.0}
+\end{center}
+}
+\date{22/10/2025}
+\maketitle
+```
+
+## Cognitive Reserve
+
+**Cognitive reserve (CR)** is the brain's ability to resist and cope with decline (e.g. from neurodegeneration) or damage (e.g. from vascular accidents), allowing for normal functioning.
+
+
+## Cognitive Reserve
+
+**Life experiences**, especially those associated with mental activity (intellectual demanding jobs, high education, social activities), can **protect** from cognitive decline and damage.
+
+## A reserve
+\center
+You can do things to accumulate a larger reserve
+
+![](Figures/cr_reserve_fuel.png){fig-align="center" width="30%"}
+
+## How to measure this reserve?
+
+To _estimate_ **CR** we use different _proxies_ that are thought to be associated with reserve.
+
+\pause
+
+- Education
+- Work activities
+- Leisure Activities
+
+## An example of tool to estimate CR
+![](Figures/CRIq.png){fig-align="center" width="70%"}
+\center
+\small 
+(Nucci et al., 2012)
+
+## An tool to estimate CR
+It is composed by three parts: CRI-Education, CRI-WorkActivities, CRI-LeisureTime.
+Some items from CRIq
+
+![](Figures/CRIq_items.png)
+
+
+
+## A concept with big impact 1/2
+
+![](Figures/high_imp1.png){height="80%"}
+
+
+![](Figures/high_imp2.png){height="80%"}
+
+<!--
+```{=latex}
+\begin{columns}
+\column{0.5\textwidth}
+\begin{figure}
+\includegraphics[width=\textwidth]{Figures/high_imp1.png}
+\end{figure}
+
+\column{0.5\textwidth}
+\begin{figure}
+\includegraphics[width=\textwidth]{Figures/high_imp2.png}
+\end{figure}
+\end{columns}
+```
+-->
+
+
+## A concept with big impact 2/2
+
+Many program focus on **brain training** and sometimes they even mention explicitely cognitive reserve.
+
+\vfill
+![](Figures/games_reserve.png)
+
+
+
+
+
+## But ...
+\pause
+
+![](Figures/Fjell_2025.png){fig-align="center" width="70%"}
+
+```{=latex}
+\pause
+\begin{itemize}
+\item 407.356 memory scores.
+\item 170.795 participants older than 50 years.
+\item (and also thousands of MRI scans).
+\end{itemize}
+```
+
+## Some depressing results
+
+![](Figures/Fjell_results.png)
+
+
+## A critical stance on Cognitive Reserve
+Is Cognitive Reserve at risk?
+\pause
+```{=latex}
+\vspace{2em}
+\begin{center}
+{\Large \textbf{Three problems}}
+\end{center}
+````
+
+## 1) How do we measure Cognitive reserve?  1/4
+
+Different proxies are used as defining the same concept.
+\pause
+
+Is Education enough to define cognitive reserve?
+
+## 1) How do we measure Cognitive reserve?  2/4
+
+```{=latex}
+\begin{columns}
+\column{0.5\textwidth}
+\small
+\begin{figure}
+\includegraphics[height=0.7\textheight]{Figures/Heterogeneity.png}
+\caption*{(Montemurro et al. 2021)}
+\end{figure}
+
+\column{0.5\textwidth}
+Different proxies show different relationship with cognitive status.
+\end{columns}
+```
+
+## 1) How do we measure Cognitive reserve?  3/4
+
+![](Figures/CR_stroke_TBI.png)
+
+\pause
+(we are facing the **jingle-jangle** fallacy, Wullff & Mata, 2025, _Nature Human Behaviour_)
+
+## 1) How do we measure Cognitive reserve?  4/4
+![](Figures/CR_measurements.png)
+See also (https://reserveandresilience.com/framework/#cr)
+
+## 2) Which came first? 1/3
+\pause
+
+![](Figures/egg_chicken.png){width="70%" fig-align="center"}
+
+## 2) Which came first? 2/3
+
+Evidence on effects on CR mostly come from **cross-sectional** studies.
+
+\pause
+There is evidence that CR are associated with _genetic factors_ or to innate factors. So something that is not related to accumulation. (e.g. Lee 2003, Lee 2013)
+
+## 2) Which came first?  3/3
+
+![](Figures/Genome-wide_brain.png)
+
+## 3) What about other aspects? 1/3
+
+Study on CR (as many other correlational studies) tend to ignore other potentially relevant and confounded variables, that may help us elucidate mechanisms and areas of intervention.
+
+## 3) What about other aspects? 2/3
+
+![](Figures/Affective_reserve.png)
+```{=latex}
+\small
+\center
+Di Rosa, 2024
+```
+
+## 3) What about other aspects? 2/3
+![](Figures/Social_exposome1.png)
+
+## 2) What about other aspects? 3/3
+![](Figures/Social_exposome2.png)
+
+## Conclusions (wrap up)
+
+**Cognitive Reserve** is a powerful concept that needs clarity.
+
+\pause
+
+Current confusion can lead to exaggerated hopes or to neglect important areas of intervention.
+
+## New perspectives
+
+In current approaches to *CR* genetic or innate predisposition are confused with activities and it is difficult to disentangle which came first.
+
+A comprehensive and multidisciplinary/multimodal approach (like the one suggested for the "Social Exposome" is desirable) to have a clear picture and to elucidate _mechanisms_.
+
+
+## Take home message
+Beware of cognitive/psychological measures and constructs.
+
+They are **relevant** and sometimes the main clinical relevant feature, but often treated as biological/physical measures (and they are not)
+\pause
+
+Beware of **jingle-jangle**, when using psychological/social concepts.
+
+
+## Thank you
+```{=latex}
+\begin{center}
+\Large{\textbf{Thank you for your attention}}\\
+\vfill
+\textbf{Giorgio Arcara}\\
+\url{giorgio.arcara@unipd.it}\\
+\url{giorgio.arcara@hsancamillo.it}\\
+\vspace{1em}
+QP Lab, Department of General Psychology, University of Padua\\
+ONDA Lab, IRCCS San Camillo, Venice
+\end{center}
+```
+
+
+## Inter-individual differences in decline.
+
+![](Figures/CR_classic.jpg){fig-align="center" width="50%"}
+
+```{=latex}
+\small
+\center
+Barulli \& Stern 2013
+```
+
+
+
+
+
+
